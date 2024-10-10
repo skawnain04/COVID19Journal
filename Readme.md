@@ -1,6 +1,6 @@
 # COVID19
 
-## Data Points
+## Collected Data Information
 
 ### Data points 
 Total = 12911449
