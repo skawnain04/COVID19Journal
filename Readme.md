@@ -3,10 +3,14 @@
 ## Collected Data Information
 
 ### Data points 
-Total = 12911449
+Total = 1,29,11,449
 
 ### Sampling it for Influencer (verified account OR Followers>=10000)
-Total = 11797209
+Total = 1,17,97,209
 
 ### Dropping NAN for all columns
-Total = 68625
+Total = 68,625
+
+
+### After Random Sampaling
+Total = 10,000
